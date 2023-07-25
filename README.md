@@ -2,18 +2,18 @@
 
 ## My instruments:
 <p align="center">
-<img width="6%" title="IntelliJ IDEA" src="logo/Intelij_IDEA.svg">
-<img width="6%" title="Java" src="logo/Java.svg">
-<img width="6%" title="Selenide" src="logo/Selenide.svg">
-<img width="6%" title="Docker" src="logo/Docker.svg">
-<img width="6%" title="Selenoid" src="logo/Selenoid.svg">
-<img width="6%" title="Allure Report" src="logo/Allure_Report.svg">
-<img width="5%" title="Allure TestOps" src="logo/AllureTestOps.svg">
-<img width="6%" title="Gradle" src="logo/Gradle.svg">
-<img width="6%" title="JUnit5" src="logo/JUnit5.svg">
-<img width="6%" title="GitHub" src="logo/GitHub.svg">
-<img width="6%" title="Jenkins" src="logo/Jenkins.svg">
-<img width="5%" title="Jira" src="logo/Jira.svg">
+<img width="6%" title="IntelliJ IDEA" src="Intelij_IDEA.svg">
+<img width="6%" title="Java" src="Java.svg">
+<img width="6%" title="Selenide" src="Selenide.svg">
+<img width="6%" title="Docker" src="Docker.svg">
+<img width="6%" title="Selenoid" src="Selenoid.svg">
+<img width="6%" title="Allure Report" src="Allure_Report.svg">
+<img width="5%" title="Allure TestOps" src="AllureTestOps.svg">
+<img width="6%" title="Gradle" src="Gradle.svg">
+<img width="6%" title="JUnit5" src="JUnit5.svg">
+<img width="6%" title="GitHub" src="GitHub.svg">
+<img width="6%" title="Jenkins" src="Jenkins.svg">
+<img width="5%" title="Jira" src="Jira.svg">
 </p>
 
 <!--
