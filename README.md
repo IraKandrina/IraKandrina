@@ -1,4 +1,9 @@
-### Hi there 👋 I'm Irina
+### Hi there 👋 I'm Irina and I'm QA engineer
+
+## About Me
+- I specialize in testing desktop and web applications
+- One of my key interests - automation in Java
+- I am always eager to learn new skills, tools, and techniques that can improve my testing abilities
 
 ## My instruments:
 <p align="center">
